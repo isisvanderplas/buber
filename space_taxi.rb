@@ -1,0 +1,3 @@
+class SpaceTaxi
+
+end
