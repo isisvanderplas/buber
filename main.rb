@@ -1,7 +1,10 @@
-require_relative "space_taxi.rb"
+require_relative "buber.rb"
 
-require_relative "passenger.rb"
+# isis = Passenger.new("Isis", "van der Plas", 28)
+# gabrijela = Passenger.new("Gabrijela", "Bosnjak", 29)
+#
+#
+# puts isis
+# puts gabrijela
 
-class Buber
-
-end
+isis = Passenger.gets_info
